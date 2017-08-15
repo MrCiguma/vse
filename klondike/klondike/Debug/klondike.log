@@ -1,0 +1,4 @@
+﻿  klondike.cpp
+c:\users\miha\documents\visual studio 2017\projects\klondike\klondike\klondike.cpp(14): warning C4101: 'f': unreferenced local variable
+  klondike.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\klondike\Debug\klondike.exe
+  klondike.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\klondike\Debug\klondike.pdb (Partial PDB)
