@@ -9,15 +9,13 @@ using namespace std;
 
 int main()
 {
-	int a;
-	int b;
-	ifstream ifs("poskus.in");
-	ifs >> a >> b;
-	ifs.close();
-	ofstream ofs("poskus.out");
-	ofs << 10 * (a + b) << '\n';
-	ofs.close();
-
-    return 0;
+	ifstream ifs("input.txt");
+	ofstream ofs("output.txt");
+	char c;
+	int d;
+	for(int i=0; i<9;i++){
+		ifs.get(c);
+		d = c;
+		ofs << d << ' ';
+	}
 }
-
