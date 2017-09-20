@@ -1,9 +1,2 @@
-﻿  stdafx.cpp
-  nim.cpp
-c:\users\miha\documents\visual studio 2017\projects\project1\nim\nim\nim.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\miha\documents\visual studio 2017\projects\project1\nim\nim\nim.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\miha\documents\visual studio 2017\projects\project1\nim\nim\nim.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\miha\documents\visual studio 2017\projects\project1\nim\nim\nim.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\miha\documents\visual studio 2017\projects\project1\nim\nim\nim.cpp(132): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  nim.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\Project1\nim\Debug\nim.exe
-  nim.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\Project1\nim\Debug\nim.pdb (Partial PDB)
+﻿  nim.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\vse\nim\Debug\nim.exe
+  nim.vcxproj -> C:\Users\Miha\Documents\Visual Studio 2017\Projects\vse\nim\Debug\nim.pdb (Partial PDB)
